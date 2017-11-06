@@ -14,7 +14,7 @@ class skier {
  * @param string $userName Skier userName
  * @param string $firstName Skier firstName 
  * @param string $lastName Skier lastName 
- * @param date $dateOfBirth Skier dateOfBirth 
+ * @param int $dateOfBirth Skier dateOfBirth 
  */
 	public function __construct($userName, $firstName, $lastName, $dateOfBirth)  
     {  

@@ -14,7 +14,7 @@ class journal {
  * @param string $fallYear Journal fallYear
  * @param string $clubID Journal clubID 
  * @param string $skierUserName Journal skierUserName 
- * @param date $totalDistance Journal totalDistance 
+ * @param int $totalDistance Journal totalDistance 
  */
 	public function __construct($fallYear, $clubID, $skierUserName, $totalDistance)  
     {  
